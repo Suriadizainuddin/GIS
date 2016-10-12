@@ -32,7 +32,7 @@ pada gambar diatas menunjukkan bahwa terdapat sebuah ruang(x,y,z)
 
 - sedangkan Titik Koordinat akan dibahas pada gambar dibawah ini
 <p align="center">
-  <img src="../../img/hiii.jpg" width="400px">
+  <img src="../../img/hiiii.jpg" width="400px">
 </p>
 pada gambar diatas menjelaskan bahwa titik koordinat  berada pada Negara Inggris tepatnya didaerah Greenwetch karena didaerah tersebut nol derajat dan lokasi perputaran bumi selanjutnya pada lintang utara pada prime meridian dan biasa disebut garis bujur pada titik koordinat geografis.
 
@@ -45,3 +45,16 @@ Pada pertama ini ditarik kesimpulan bahwa kita dapat mengetahui tentang Sistem I
 **Saran**
 
 Saran untuk pertemuan pertama adalah materi sudah cukup dipahami namun mahasiswa khususnya Teknik Informatika pasti membutuhkan yang namanya praktek sehingga kuliah berjalan dengan baik dan lancar dan amin.
+
+* Nama : Suriadi Zainuddin
+* NPM : 1144092
+* Kelas : 3C
+* Prodi : D4 Teknik Informatika
+* Mata Kuliah : Sistem Informasi Geografis
+
+Link Github : https://github.com/Suriadizainuddin/GIS
+
+Scan Plagiarisme
+
+1. Link https://drive.google.com/open?id=0B4xKZBSfbWnFY2NuWkJYcFlJeUk
+2. Link https://drive.google.com/open?id=0B4xKZBSfbWnFdXFqYlRPQUZzTUU
