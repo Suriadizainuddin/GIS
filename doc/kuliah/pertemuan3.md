@@ -1,5 +1,9 @@
 **DATA VEKTOR GEOSPASIAL**
+<p align="center">
+  
+<img src="../../img/vektor.jpg" width="400px">
 
+</p>
  
 
 Pada geospasial terdapat 2 data yaitu data vector geospasial dan data raster geospasial . Data Vector adalah data yang menampilkan keruangan atau pola,titik kurva atsu polygon. Data vector ini sangan baik untuk mempersentsikan gambar jalan, rel kereta api karena data vector ini sangat cocok untuk digunakan untuk keperluan administrasi peta sedangkan Data Raster adalah data yang diambil atau data yang dikumpulkan dari data  radar setelit atau citra perekaman foto sehingga data raster nantinya akan  berupa gambaran permukaan bumi dalam bentuk warna hijau,kuning ,biru dan lainnya.
