@@ -1,5 +1,9 @@
 RETRIEVE PADA DATA GEOSPASIAL
+<p align="center">
+  
+<img src="../../img/o.png" width="400px">
 
+</p>
  
 Latar Belakang Masalah
 
