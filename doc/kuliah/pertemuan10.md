@@ -1,9 +1,9 @@
 **Overlay**
 
 <p align="center">
-  <img src="../../img/overlay.jpg" width="400px">
+  <img src="../../img/0.png" width="400px">
 </p>
-
+ 
  
 1. Apa itu Open Layer?
 2. Apa yang dimaksud Marker?
@@ -150,10 +150,6 @@ Pembahasan
   </body>
 </html>
 
-<p align="center">
-  <img src="../../img/0.png" width="400px">
-</p>
- 
 Penutup
  Kesimpulan 
 Dari praktikum diatas dapat disimpulkan bahwa pembuatan marker dengan open layer beda tipis dengan membuat marker di google maps, hanya berbeda beberapa code saja dan cara pemanggilan mapsnya
