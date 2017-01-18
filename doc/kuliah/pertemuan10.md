@@ -1,7 +1,7 @@
 **Overlay**
 
 <p align="center">
-  <img src="../../img/suriadi.png" width="400px">
+  <img src="../../img/overley.jpg" width="400px">
 </p>
 
  
@@ -159,3 +159,4 @@ Penutup
 Dari praktikum diatas dapat disimpulkan bahwa pembuatan marker dengan open layer beda tipis dengan membuat marker di google maps, hanya berbeda beberapa code saja dan cara pemanggilan mapsnya
  Saran
  Saran saya sebaiknya pembelajaran tentang open layer dapat diperjelas lagi agar mengetahui perbedaan yang signifikan antara google maps dan open layer
+s
