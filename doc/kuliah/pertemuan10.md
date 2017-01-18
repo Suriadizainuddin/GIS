@@ -1,7 +1,7 @@
 **Overlay**
 
 <p align="center">
-  <img src="../../img/overley.jpg" width="400px">
+  <img src="../../img/overlay.jpg" width="400px">
 </p>
 
  
